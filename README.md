@@ -22,3 +22,4 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 
 ## poznamky:
 pro "pushnuti" image se musím vytvořit tag image a repository
+Z důvodu nefungujici proxy jsem musel změnit apt.conf (nano /etc/apt/apt.conf) a přepsat proxy
