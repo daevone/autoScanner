@@ -5,9 +5,33 @@ Nejjednodušší způsob, jak používat Mayam EDMS, je použití oficiálního
 [Docker] (https://www.docker.com/) iamge. Docker musí být správně nainstalován
 a funguje před pokusem o instalaci Mayam EDMS.
 
+<h2 align="center">Hardware požadavky</h2>
+
+- 2 GB RAM (1 GB pokud je  OCR vyplé).
+- vícejádrový procesor (64 bit,  rychlejší než 1 GHz).
+
+<div align="center">
+  <a href="http://www.mayan-edms.com">
+    
+  <br>
+  <br>
+  <p>
+
+    Mayan EDMS je systém správy dokumentů. Jeho hlavním účelem je skladovat,
+    a kategorizovat soubory se silným důrazem na zachování kontextové a obchodní informace o dokumentech. Může 
+    označit, podepsat, odesílat a přijímat tyto soubory.
+<p>
+
+<p align="center">
+    <img src="https://gitlab.com/mayan-edms/mayan-edms/raw/master/docs/_static/overview.gif">
+</p>
+
+</div>
 
 
-## autoScanner
+
+
+
 odkazy : 
 https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-docker-ce
 
