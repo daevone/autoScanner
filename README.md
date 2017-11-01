@@ -26,7 +26,7 @@ a funguje před pokusem o instalaci Mayam EDMS.
     <img src="https://gitlab.com/mayan-edms/mayan-edms/raw/master/docs/_static/overview.gif">
  
 </p>
- <p>to je moje video :)</p>
+to je moje video :)
 </div>
 
 
