@@ -28,8 +28,6 @@ a funguje před pokusem o instalaci Mayam EDMS.
 </p></div>
 
 
-to je moje video :)
-
 
 
 
